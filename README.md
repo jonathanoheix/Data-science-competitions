@@ -4,4 +4,4 @@ Notebook: https://github.com/jonathanoheix/Data-science-competitions/blob/master
 
 LMDSF2018 (Le Meilleur Data Scientist de France 2018)
 https://www.meilleurdatascientistdefrance.com/
-Notebook (partly in French): https://github.com/jonathanoheix/Data-science-competitions/blob/master/LMDSF2018%20%5BFrench%5D.ipynb
+Notebook (partly in French): https://github.com/jonathanoheix/Data-science-competitions/blob/master/LMDSF2018%20%5BFrench%5D%20top%2010%25.ipynb
